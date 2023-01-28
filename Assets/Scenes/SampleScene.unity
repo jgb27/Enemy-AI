@@ -1319,6 +1319,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2556458489345277129, guid: 662a98167fc86374abee82346b0b1851, type: 3}
+      propertyPath: m_projectionMatrixMode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2556458489345277129, guid: 662a98167fc86374abee82346b0b1851, type: 3}
+      propertyPath: m_NormalizedViewPortRect.y
+      value: 0.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 2556458489345277131, guid: 662a98167fc86374abee82346b0b1851, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2556458489345277131, guid: 662a98167fc86374abee82346b0b1851, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2556458489798824209, guid: 662a98167fc86374abee82346b0b1851, type: 3}
       propertyPath: m_RootOrder
       value: 3
